@@ -5,9 +5,9 @@
   padding: 0;
   box-sizing: border-box;
   border: none;
-  font-weight: 500;
   font-family: var(--font-1);
   --font-1: "Kaisei Tokumin", serif;
+  font-weight: 500;
   font-style: normal;
   /* --font-2: "Poppins", sans-serif; */
   /* --font-3: "Bebas Neue", sans-serif;  */
@@ -32,9 +32,10 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+p {
   font-family: var(--font-1);
   font-weight: 500;
   font-style: none;
-  color: #000;
+  color: #000000;
 }

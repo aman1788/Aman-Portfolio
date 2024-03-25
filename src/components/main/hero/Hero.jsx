@@ -2,7 +2,7 @@ import React from "react";
 import "./Hero.css";
 import Navbar from "../navbar/Navbar";
 
-import heroImg from "../../../assets/images/hero-img.png";
+import heroImg from "../../../assets/images/main-section/hero-img.png";
 
 const Hero = () => {
   return (
